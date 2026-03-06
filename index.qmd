@@ -1,7 +1,4 @@
 ---
 title: "ZS-2525-bit.github.io"
 ---
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+this is my website
