@@ -8,7 +8,7 @@ about:
   image-width: 17em
   links:
     - text: LinkedIn
-      href: https://www.linkedin.com/in/zoe-stopfer-992664342/
+      href: www.linkedin.com/in/zoe-stopfer-992664342
     - text: GitHub
       href: https://github.com/ZS-25-bit
     - text: Email
