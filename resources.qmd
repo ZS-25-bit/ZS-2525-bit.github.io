@@ -1,5 +1,8 @@
 ---
-title: "Resources"
-format: html
+title: "Useful Resources"
+toc: false 
+links:
+    - text: Hispanic Scholarship Fund
+      href: https://www.hsf.net/
 ---
 
