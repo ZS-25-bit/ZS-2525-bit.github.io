@@ -13,9 +13,7 @@ website:
 
 format:
   html:
-    theme: brite
-      - cosmo
-      - brand
+    theme: sketchy
     css: styles.css
     toc: true
     page-layout: full
