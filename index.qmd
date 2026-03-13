@@ -1,15 +1,19 @@
 ---
-title: "Japanese Strawberry Shortcake"
-description: "First time baking a cake from scratch. Made for Father's Day"
-author:
-  - name: "Zoe Stopfer"
-    url: "https://github.com/ZS-25-bit"
-date: 2026-06-15
-categories: [Quarto, R, MEDS]
-citation:
-  url: "https://www.justonecookbook.com/japanese-strawberry-shortcake/"
-image: "cake.jpg"
-draft: false
+title: "Zoe Stopfer"
+image: myphoto.png
+toc: false
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      href: www.linkedin.com/in/zoe-stopfer-992664342
+    - text: GitHub
+      href: https://github.com/ZS-25-bit
+    - text: Email
+      href: zmstopfer@ucsb.edu
+
 ---
 
 Hello and welcome to my website! My name is Zoe and I am currently getting a B.S in Environmental Studies at UCSB.I am interested in a future career that involves research in conservation or dealing with invasive species.  Outside of school, my simple pleasures are baking, participating in Jiu Jitsu, and raspberry lemonade!
