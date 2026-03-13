@@ -1,0 +1,16 @@
+---
+title: "Japanese Strawberry Shortcake"
+description: "First time baking a cake from scratch. Made for Father's Day"
+author:
+  - name: Zoe Stopfer
+    url: https://github.com/ZS-25-bit
+date: 2026-06-15
+categories: [Quarto, R]
+citation:
+  url: https://www.justonecookbook.com/japanese-strawberry-shortcake/
+image: cake.jpg
+draft: true
+---
+
+
+My dad always loves when I make desserts but for Father's Day he wanted to challenge me. He requested a cake, something I have never made from scratch before. I decided to make a Japanese Strawberry short cake, to not only bring in our  Japanese roots but to also create something that not too sweet since my family doesn't enjoy overly sweet things. This cake was definitely a challenge to make. I struggled with the texture of the sponge cake, and over whipped it. I also didn't have the proper cake decorating kit. But with some blood, sweat, and tears(plus some gold), in the end I was able to make a delicious cake. 
